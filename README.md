@@ -10,6 +10,12 @@
     <!-- </a> -->
 </p>
 
+<p>
+
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://activity-graph.herokuapp.com/graph?username=VladimirJevtic95&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>
+
+</p>
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
