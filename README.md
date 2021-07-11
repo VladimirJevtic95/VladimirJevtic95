@@ -4,6 +4,14 @@
 
 <h1 align="center">Hi <img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire-resized.gif">LOL</h1>
 
+<p align="center">
+    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"> -->
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham"/>
+    <!-- </a> -->
+</p>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
 
@@ -54,6 +62,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 ## 📊 My Github Stats
 
