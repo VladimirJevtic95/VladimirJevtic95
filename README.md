@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="25px"/></a>
 
 <h1 align="center">Hi <img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire-resized.gif">LOL</h1>
 
@@ -15,6 +15,18 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://activity-graph.herokuapp.com/graph?username=VladimirJevtic95&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>
 
 </p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/VladimirJevtic95/github-readme-stats"><img alt="Vladimir Github Stats" src="https://github-readme-stats.vercel.app/api?username=VladimirJevtic95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/VladimirJevtic95/github-readme-stats"><img alt="VladimirJevtic95 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirJevtic95&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+
+
+<br/>
+<br/>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
