@@ -6,7 +6,7 @@
 
 <p align="center">
     <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"> -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham&hide_border=true"/>
     <!-- </a> -->
 </p>
 
