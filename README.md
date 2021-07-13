@@ -1,9 +1,4 @@
 ### Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a>!
-<!-- https://github.com/SubhamRaoniar28/SubhamRaoniar28 -->
-
-test
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="25px"/></a>
 
 <h1 align="center"><img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif"></h1>
 
