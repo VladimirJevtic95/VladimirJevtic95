@@ -1,9 +1,13 @@
 ### 
 
-<h1 align="center"><img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="40px"></h1>
-<p align="center">*Something is cooking*</p>
+<h1 align="center">
+<img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="60px">
+<br/>
 
-### Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
+*Something is cooking*
+</h1>
+
+## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
 
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham&hide_border=true"/>
