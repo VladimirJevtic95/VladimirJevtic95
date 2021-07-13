@@ -3,8 +3,10 @@
 <h1 align="center">
 <img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="55px">
 <br/>
+<p>
 
-###### *Something is cooking*
+*Something is cooking*
+</p>
 </h1>
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
