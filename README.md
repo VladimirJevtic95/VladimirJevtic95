@@ -34,7 +34,7 @@ Use dark theme to find me 👀
 <br />
 <br />
 
-#### 🔋 Apps..
+### 🔋 Apps..
 
 - [bNotepad](https://play.google.com/store/apps/details?id=com.kodobit.bnotepad)
 - [XPBoost](https://play.google.com/store/apps/details?id=com.kodobit.xpboost)
@@ -43,7 +43,7 @@ Use dark theme to find me 👀
 
 <br/>
 
-#### Dev stuff
+### Dev stuff
 
 <img align="left" title="Java" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/java.svg" />
 <img align="left" title="MySQL" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/mysql.svg" />
@@ -57,7 +57,7 @@ Use dark theme to find me 👀
 <br />
 <br />
 
-#### Software:
+### Software:
 
 <img align="left" title="Android studio" width="35px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/android.svg" />
 <img align="left" title="Intellij Idea" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/intellij.svg" />
