@@ -67,16 +67,6 @@ Use dark theme to find me 👀
 <img align="left" title="Illustrator" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/illustrator.svg" />
 <img align="left" title="Lightroom" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/lightroom.svg" />
 
-<br />
-<br />
-
----
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/x2lfrxuezh01fzkn82dq1gl9z)
-<br/>
-
 ---
 
 <p align="center">
