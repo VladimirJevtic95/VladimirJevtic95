@@ -1,8 +1,36 @@
 ###
 
-<img align="center" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="55px">
+<p align="center">
+<img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="55px">
+<p>
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
+
+<a href="" target="_blank">
+<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
+</a>
+<a href="" target="_blank">
+<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
+</a>
+<a href="" target="_blank">
+<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
+</a>
+<a href="" target="_blank">
+<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
+</a>
+<a href="" target="_blank">
+<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
+</a>
+<a href="" target="_blank">
+<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
+</a>
+<a href="" target="_blank">
+<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
+</a>
+
+<br />
+<br />
+<br />
 
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&theme=gotham&hide_border=true"/>
