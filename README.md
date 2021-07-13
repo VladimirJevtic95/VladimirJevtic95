@@ -46,26 +46,26 @@ Use dark theme to find me 👀
 ### Dev stuff
 
 <img align="left" title="Java" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/java.svg" />
-<img align="left" title="MySQL" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/mysql.svg" />
-<img align="left" title="PHP" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/php.svg" />
-<img align="left" title="HMTL" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/html.svg" />
-<img align="left" title="CSS" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/css.svg" />
+<img align="left" title="MySQL" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/mysql.svg" />
+<img align="left" title="PHP" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/php.svg" />
+<img align="left" title="HMTL" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/html.svg" />
+<img align="left" title="CSS" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/css.svg" />
 <img align="left" title="Firebase" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/firebase.svg" />
-<img align="left" title="Git" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/git.svg" />
-<img align="left" title="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/github.svg" />
+<img align="left" title="Git" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/git.svg" />
+<img align="left" title="Github" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/github.svg" />
 
 <br />
 <br />
 
 ### Software:
 
-<img align="left" title="Android studio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/android.svg" />
-<img align="left" title="Intellij Idea" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/intellij.svg" />
-<img align="left" title="VS Code" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/vscode.svg" />
-<img align="left" title="Xampp" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/xampp.svg" />
-<img align="left" title="Photoshop" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/photoshop.svg" />
-<img align="left" title="Illustrator" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/illustrator.svg" />
-<img align="left" title="Lightroom" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/lightroom.svg" />
+<img align="left" title="Android studio" width="28px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/android.svg" />
+<img align="left" title="Intellij Idea" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/intellij.svg" />
+<img align="left" title="VS Code" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/vscode.svg" />
+<img align="left" title="Xampp" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/xampp.svg" />
+<img align="left" title="Photoshop" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/photoshop.svg" />
+<img align="left" title="Illustrator" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/illustrator.svg" />
+<img align="left" title="Lightroom" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/lightroom.svg" />
 
 <br />
 <br />
