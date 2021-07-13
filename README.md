@@ -1,4 +1,4 @@
-### Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a>!
+### Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank" style="color:red">Vladimir</a>!
 
 <h1 align="center"><img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif"></h1>
 
