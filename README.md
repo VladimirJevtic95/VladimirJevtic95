@@ -67,8 +67,9 @@ Use dark theme to find me 👀
 <img align="left" title="Illustrator" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/illustrator.svg" />
 <img align="left" title="Lightroom" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/lightroom.svg" />
 
-<br />
----
+<br /><br />
+
+ ---
 
 <p align="center">
         <img title="🔥 Streak" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&border=95DD1F00&background=FF2D2D00&stroke=2BFFB0&ring=2BFFB0&fire=FF1C1C&currStreakNum=A83FFF&currStreakLabel=2BFFB0&dates=737373&sideNums=2BFFB0&sideLabels=ABABAB"/>
