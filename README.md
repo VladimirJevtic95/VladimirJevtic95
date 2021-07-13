@@ -5,6 +5,8 @@
 <p>
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
+Use dark theme to find me 👀
+<br />
 
 <a href="https://kodobit.com/" target="_blank">
 <img align="left" title="🔥 Personal kodobit project" alt="kodobit" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
@@ -15,17 +17,17 @@
 <a href="https://www.linkedin.com/in/vladimirjevtic95/" target="_blank">
 <img align="left" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
 </a>
-<a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
+<a href="https://kodobit.com/CV/CV_web/" target="_blank">
+<img align="left" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
 </a>
-<a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
+<a href="https://github.com/VladimirJevtic95" target="_blank">
+<img align="left" alt="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
 </a>
-<a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
+<a href="https://deltateks.rs/" target="_blank">
+<img align="left" alt="Deltateks" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
 </a>
-<a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
+<a href="https://www.instagram.com/bigboivladica/" target="_blank">
+<img align="left" alt="Instagram" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
 </a>
 
 <br />
