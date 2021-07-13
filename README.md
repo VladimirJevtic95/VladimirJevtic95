@@ -5,6 +5,7 @@
 <p>
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
+
 Use dark theme to find me 👀
 <br />
 
@@ -44,38 +45,38 @@ Use dark theme to find me 👀
 
 ### Dev stuff
 
-<img align="left" title="🔥 Personal kodobit project" alt="kodobit" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
-<img align="left" title="🔥 Google Play apps" alt="Google Play" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
-<img align="left" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
-<img align="left" title="Portfolio" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
-<img align="left" title="Github" alt="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
-<img align="left" title="🧶 Deltateks" alt="Deltateks" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
-<img align="left" title="Instagram" alt="Instagram" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
+<img align="left" title="Java" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/java.svg" />
+<img align="left" title="MySQL" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/mysql.svg" />
+<img align="left" title="PHP" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/php.svg" />
+<img align="left" title="HMTL" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/html.svg" />
+<img align="left" title="CSS" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/css.svg" />
+<img align="left" title="Firebase" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/firebase.svg" />
+<img align="left" title="Git" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/git.svg" />
+<img align="left" title="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/github.svg" />
 
 <br />
 <br />
 
 ### Software:
 
-<img align="left" title="🔥 Personal kodobit project" alt="kodobit" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
-<img align="left" title="🔥 Google Play apps" alt="Google Play" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
-<img align="left" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
-<img align="left" title="Portfolio" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
-<img align="left" title="Github" alt="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
-<img align="left" title="🧶 Deltateks" alt="Deltateks" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
-<img align="left" title="Instagram" alt="Instagram" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
+<img align="left" title="Android studio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/android.svg" />
+<img align="left" title="Intellij Idea" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/intellij.svg" />
+<img align="left" title="VS Code" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/vscode.svg" />
+<img align="left" title="Xampp" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/xampp.svg" />
+<img align="left" title="Photoshop" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/photoshop.svg" />
+<img align="left" title="Illustrator" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/illustrator.svg" />
+<img align="left" title="Lightroom" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/lightroom.svg" />
 
 <br />
 <br />
 
 ---
 
-
-
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 <br/>
+
 ---
 
 <p align="center">
