@@ -6,14 +6,14 @@
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
 
-<a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
+<a href="https://kodobit.com/" target="_blank">
+<img align="left" title="🔥 Personal kodobit project" alt="kodobit" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
 </a>
-<a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
+<a href="https://play.google.com/store/apps/dev?id=4660220735305925957" target="_blank">
+<img align="left" title="🔥 Google Play apps" alt="Google Play" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
 </a>
-<a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
+<a href="https://www.linkedin.com/in/vladimirjevtic95/" target="_blank">
+<img align="left" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
 </a>
 <a href="" target="_blank">
 <img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
