@@ -59,7 +59,7 @@ Use dark theme to find me 👀
 
 ### Software:
 
-<img align="left" title="Android studio" width="28px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/android.svg" />
+<img align="left" title="Android studio" width="35px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/android.svg" />
 <img align="left" title="Intellij Idea" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/intellij.svg" />
 <img align="left" title="VS Code" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/vscode.svg" />
 <img align="left" title="Xampp" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/xampp.svg" />
