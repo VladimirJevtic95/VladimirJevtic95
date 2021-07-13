@@ -22,7 +22,7 @@
 <img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
 </a>
 <a href="" target="_blank">
-<img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
+<img align="left" alt="Vladimir Jevtić" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
 </a>
 <a href="" target="_blank">
 <img align="left" alt="Vladimir Jevtić" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
