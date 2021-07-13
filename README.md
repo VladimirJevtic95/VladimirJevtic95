@@ -75,7 +75,7 @@ Use dark theme to find me 👀
         <img title="🔥 Streak" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&border=95DD1F00&background=FF2D2D00&stroke=2BFFB0&ring=2BFFB0&fire=FF1C1C&currStreakNum=A83FFF&currStreakLabel=2BFFB0&dates=737373&sideNums=2BFFB0&sideLabels=ABABAB"/>
 </p>
 
-<p>
+<p align="center">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://activity-graph.herokuapp.com/graph?username=VladimirJevtic95&bg_color=FF2D2D00&color=ABABAB&line=2BFFB0&point=A83FFF&area=true&hide_border=true"/>
 </p>
 
