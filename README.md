@@ -1,10 +1,10 @@
 ### 
 
 <h1 align="center">
-<img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="60px">
+<img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="55px">
 <br/>
 
-*Something is cooking*
+###### *Something is cooking*
 </h1>
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
