@@ -3,9 +3,10 @@
 <p align="center">
 <img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="55px">
 <p>
+<br />
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
-Use dark theme to find me 👀
+(Use dark theme to find me 👀)
 <br />
 
 <a href="https://kodobit.com/" target="_blank">
@@ -18,16 +19,16 @@ Use dark theme to find me 👀
 <img align="left" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
 </a>
 <a href="https://kodobit.com/CV/CV_web/" target="_blank">
-<img align="left" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
+<img align="left" title="Portfolio" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
 </a>
 <a href="https://github.com/VladimirJevtic95" target="_blank">
-<img align="left" alt="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
+<img align="left" title="Github" alt="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
 </a>
 <a href="https://deltateks.rs/" target="_blank">
-<img align="left" alt="Deltateks" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
+<img align="left" title="Deltateks" alt="Deltateks" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
 </a>
 <a href="https://www.instagram.com/bigboivladica/" target="_blank">
-<img align="left" alt="Instagram" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
+<img align="left" title="Instagram" alt="Instagram" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
 </a>
 
 <br />
