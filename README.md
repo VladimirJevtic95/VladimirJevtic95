@@ -1,10 +1,9 @@
-### Hi there 👋
-
+### Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a>!
 <!-- https://github.com/SubhamRaoniar28/SubhamRaoniar28 -->
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="25px"/></a>
 
-<h1 align="center"><img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire-resized.gif"></h1>
+<h1 align="center"><img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif"></h1>
 
 <p align="center">
     <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats"> -->
