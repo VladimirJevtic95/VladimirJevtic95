@@ -76,7 +76,7 @@ Use dark theme to find me 👀
 </p>
 
 <p>
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://activity-graph.herokuapp.com/graph?username=VladimirJevtic95&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://activity-graph.herokuapp.com/graph?username=VladimirJevtic95&bg_color=FF2D2D00&color=ABABAB&line=2BFFB0&point=A83FFF&area=true&hide_border=true"/>
 </p>
 
 ## 📊 My Github Stats
