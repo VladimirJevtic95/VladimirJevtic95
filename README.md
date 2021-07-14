@@ -8,8 +8,6 @@
 
 ###### Use dark theme to find me 👀
 
-<br />
-
 <a href="https://kodobit.com/" target="_blank">
 <img align="left" title="🔥 Personal kodobit project" alt="kodobit" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
 </a>
