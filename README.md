@@ -34,7 +34,7 @@ Use dark theme to find me 👀
 <br />
 <br />
 
-### 🔋 Apps..
+### 🔋 Some of my apps..
 
 - [bNotepad](https://play.google.com/store/apps/details?id=com.kodobit.bnotepad)
 - [XPBoost](https://play.google.com/store/apps/details?id=com.kodobit.xpboost)
