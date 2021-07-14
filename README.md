@@ -6,7 +6,8 @@
 
 ## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
 
-Use dark theme to find me 👀
+###### Use dark theme to find me 👀
+
 <br />
 
 <a href="https://kodobit.com/" target="_blank">
