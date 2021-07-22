@@ -33,16 +33,16 @@
 <br />
 <br />
 
-### 🔋 Some of my apps..
+<!-- ### 🔋 Some of my apps..
 
 - [bNotepad](https://play.google.com/store/apps/details?id=com.kodobit.bnotepad)
 - [XPBoost](https://play.google.com/store/apps/details?id=com.kodobit.xpboost)
 - [SwiftNotes](https://play.google.com/store/apps/details?id=com.kodobit.swiftnotes)
 - [SquareZOO](https://play.google.com/store/apps/details?id=com.kodobit.squarezoo)
 
-<br/>
+<br/> 
 
-<!-- ### Dev stuff
+ ### Dev stuff
 
 <img align="left" title="Java" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/java.svg" />
 <img align="left" title="MySQL" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/mysql.svg" />
