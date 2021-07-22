@@ -42,7 +42,7 @@
 
 <br/>
 
-### Dev stuff
+<!-- ### Dev stuff
 
 <img align="left" title="Java" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/java.svg" />
 <img align="left" title="MySQL" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/dev/mysql.svg" />
@@ -66,7 +66,7 @@
 <img align="left" title="Illustrator" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/illustrator.svg" />
 <img align="left" title="Lightroom" width="25px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/software/lightroom.svg" />
 
-<br /><br />
+<br /><br /> -->
 
  ---
 
