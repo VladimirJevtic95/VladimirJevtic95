@@ -40,7 +40,7 @@
 - [SwiftNotes](https://play.google.com/store/apps/details?id=com.kodobit.swiftnotes)
 - [SquareZOO](https://play.google.com/store/apps/details?id=com.kodobit.squarezoo)
 
-<br/> 
+<br/>
 
  ### Dev stuff
 
@@ -68,21 +68,21 @@
 
 <br /><br /> -->
 
- ---
+---
 
 <p align="center">
         <img title="🔥 Streak" alt="Vladimir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VladimirJevtic95&border=95DD1F00&background=FF2D2D00&stroke=2BFFB0&ring=2BFFB0&fire=FF1C1C&currStreakNum=A83FFF&currStreakLabel=2BFFB0&dates=737373&sideNums=2BFFB0&sideLabels=ABABAB"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://activity-graph.herokuapp.com/graph?username=VladimirJevtic95&bg_color=FF2D2D00&color=ABABAB&line=2BFFB0&point=A83FFF&area=true&hide_border=true"/>
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/VladimirJevtic95/github-readme-stats"><img alt="Vladimir Github Stats" src="https://github-readme-stats.vercel.app/api?username=VladimirJevtic95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/VladimirJevtic95/github-readme-stats"><img alt="VladimirJevtic95 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirJevtic95&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="Vladimir Github Stats" src="https://github-readme-stats.vercel.app/api?username=VladimirJevtic95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="VladimirJevtic95 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirJevtic95&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
 
-<!-- !* TODO https://github.com/anuraghazra/github-readme-stats --> 
+<!-- !* TODO https://github.com/anuraghazra/github-readme-stats -->
