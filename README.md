@@ -20,7 +20,7 @@
 <a href="https://kodobit.com/CV/CV_web/" target="_blank">
 <img align="left" title="Portfolio" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
 </a>
-<a href="https://github.com/VladimirJevtic95" target="_blank">
+<a href="https://gist.github.com/VladimirJevtic95" target="_blank">
 <img align="left" title="Github" alt="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
 </a>
 <a href="https://deltateks.rs/" target="_blank">
