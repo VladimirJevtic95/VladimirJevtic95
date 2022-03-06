@@ -9,33 +9,26 @@
 ###### Use dark theme to find me 👀
 
 <a href="https://kodobit.com/" target="_blank">
-<img align="left" title="🔥 Personal kodobit project" alt="kodobit" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
+<img align="left" title="Personal kodobit project" alt="kodobit" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
 </a>
 <a href="https://play.google.com/store/apps/dev?id=4660220735305925957" target="_blank">
-<img align="left" title="🔥 Google Play apps" alt="Google Play" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
+<img align="left" title="Google Play apps" alt="Google Play" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vladimirjevtic95/" target="_blank">
 <img align="left" title="LinkedIn" alt="LinkedIn" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
 </a>
 <a href="https://kodobit.com/CV/CV_web/" target="_blank">
-<img align="left" title="Portfolio" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/firefox.svg" />
-</a>
-<a href="https://gist.github.com/VladimirJevtic95" target="_blank">
-<img align="left" title="Github" alt="Github" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/github.svg" />
-</a>
-<a href="https://deltateks.rs/" target="_blank">
-<img align="left" title="🧶 Deltateks" alt="Deltateks" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
+<img align="left" title="Portfolio" alt="Portfolio" width="22px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/duckduckgo.svg" />
 </a>
 
 <br />
-<br />
+
+<!-- ###
 
 🔋 Some of my apps..
 
-- [SwiftNotes](https://play.google.com/store/apps/details?id=com.kodobit.swiftnotes)
-
-<!-- ### 
 - [bNotepad](https://play.google.com/store/apps/details?id=com.kodobit.bnotepad)
+- [SwiftNotes](https://play.google.com/store/apps/details?id=com.kodobit.swiftnotes)
 - [XPBoost](https://play.google.com/store/apps/details?id=com.kodobit.xpboost)
 - [SquareZOO](https://play.google.com/store/apps/details?id=com.kodobit.squarezoo)
 
