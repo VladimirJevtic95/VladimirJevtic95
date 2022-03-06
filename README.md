@@ -6,7 +6,7 @@
 
 ## Hello, I'm Vladimir...
 
-###### Use dark theme to find me 👀
+###### Where to find me 👀
 
 <a href="https://kodobit.com/" target="_blank">
 <img align="left" title="Personal kodobit project" alt="kodobit" width="30px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
