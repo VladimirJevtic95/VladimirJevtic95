@@ -4,7 +4,7 @@
 <img src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/gifs/fire.gif" width="55px">
 <p>
 
-## Hello, I'm <a href="https://kodobit.com/CV/CV_web/" target="_blank">Vladimir</a> !
+## Hello, I'm Vladimir...
 
 ###### Use dark theme to find me 👀
 
@@ -26,18 +26,17 @@
 <a href="https://deltateks.rs/" target="_blank">
 <img align="left" title="🧶 Deltateks" alt="Deltateks" width="24px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/deltateks.svg" />
 </a>
-<a href="https://www.instagram.com/bigboivladica/" target="_blank">
-<img align="left" title="Instagram" alt="Instagram" width="23px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/instagram.svg" />
-</a>
 
 <br />
 <br />
 
-<!-- ### 🔋 Some of my apps..
+🔋 Some of my apps..
 
+- [SwiftNotes](https://play.google.com/store/apps/details?id=com.kodobit.swiftnotes)
+
+<!-- ### 
 - [bNotepad](https://play.google.com/store/apps/details?id=com.kodobit.bnotepad)
 - [XPBoost](https://play.google.com/store/apps/details?id=com.kodobit.xpboost)
-- [SwiftNotes](https://play.google.com/store/apps/details?id=com.kodobit.swiftnotes)
 - [SquareZOO](https://play.google.com/store/apps/details?id=com.kodobit.squarezoo)
 
 <br/>
