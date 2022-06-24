@@ -9,16 +9,16 @@
 ###### Where to find me 👀
 
 <a href="https://kodobit.com/" target="_blank">
-<img align="left" title="Personal kodobit project" alt="kodobit" width="30px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
+<img align="left" title="Personal kodobit project" alt="kodobit" width="26px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/chrome.svg" />
 </a>
 <a href="https://play.google.com/store/apps/dev?id=4660220735305925957" target="_blank">
-<img align="left" title="Google Play apps" alt="Google Play" width="30px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
+<img align="left" title="Google Play apps" alt="Google Play" width="26px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/google-play.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vladimirjevtic95/" target="_blank">
-<img align="left" title="LinkedIn" alt="LinkedIn" width="30px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
+<img align="left" title="LinkedIn" alt="LinkedIn" width="26px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
 </a>
 <a href="https://kodobit.com/CV/CV_web/" target="_blank">
-<img align="left" title="Portfolio" alt="Portfolio" width="30px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/duckduckgo.svg" />
+<img align="left" title="Portfolio" alt="Portfolio" width="26px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/duckduckgo.svg" />
 </a>
 
 <br />
@@ -70,7 +70,7 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vladimir's streak" src="https://activity-graph.herokuapp.com/graph?username=VladimirJevtic95&bg_color=FF2D2D00&color=ABABAB&line=2BFFB0&point=A83FFF&area=true&hide_border=true"/>
 </p>
 
-## 📊 My Github Stats
+## 📈 My Github Stats
 
   <br/>
   <a href="https://github.com/VladimirJevtic95"><img alt="Vladimir Github Stats" src="https://github-readme-stats.vercel.app/api?username=VladimirJevtic95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -78,3 +78,9 @@
   <br/>
 
 <!-- !* TODO https://github.com/anuraghazra/github-readme-stats -->
+
+
+## 🤓 More Stats
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VladimirJevtic95&show_icons=true" alt="VladimirJevtic95" />
