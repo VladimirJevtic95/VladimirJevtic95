@@ -17,9 +17,6 @@
 <a href="https://www.linkedin.com/in/vladimirjevtic95/" target="_blank">
 <img align="left" title="LinkedIn" alt="LinkedIn" width="26px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/linkedin.svg" />
 </a>
-<a href="https://kodobit.com/CV/CV_web/" target="_blank">
-<img align="left" title="Portfolio" alt="Portfolio" width="26px" src="https://github.com/VladimirJevtic95/VladimirJevtic95/blob/main/icons/social/duckduckgo.svg" />
-</a>
 
 <br />
 
